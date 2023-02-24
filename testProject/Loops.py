@@ -1,11 +1,11 @@
 
 i = 1
-5
-j = 1
 
-while i<=1:
-    print("Brilliant ")
+while i<=5:
+    print("Brilliant ", end="")
+    j=1
     while j<=4:
-        print("Rocks ")
+        print("Rocks ", end="")
         j=j+1
     i=i+1
+    print()
