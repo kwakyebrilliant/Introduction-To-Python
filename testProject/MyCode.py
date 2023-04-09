@@ -1,3 +1,6 @@
+
+av = 10
+
 x = int(input("How many candies you want?"))
 
 i = 1
