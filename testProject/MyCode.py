@@ -1,0 +1,1 @@
+x = int(input("How many candies you want"))
