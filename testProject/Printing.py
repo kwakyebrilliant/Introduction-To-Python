@@ -1,4 +1,2 @@
-print("# ", end="")
-print("# ", end="")
-print("# ", end="")
-print("# ", end="")
+for j in range(4):
+    print("# ", end="")
