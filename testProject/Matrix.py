@@ -6,4 +6,4 @@ arr1 = array([
     [4,5,6]
 ])
 
-print(arr1)
+print(arr1.size)
