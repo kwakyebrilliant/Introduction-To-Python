@@ -9,7 +9,7 @@ arr = array('i', [])
 
 n = int(input("Enter the length of the array"))
 
-for i in range(5):
+for i in range(n):
     x = int(input("Enter the value"))
     arr.append(x)
 
