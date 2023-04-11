@@ -14,3 +14,5 @@ for i in range(n):
     arr.append(x)
 
 print(arr)
+
+val = int(input("Enter the length of the array"))
