@@ -4,6 +4,9 @@ from numpy import *
 
 # print(arr)
 
-arr = logspace(1,40,5)
+# arr = logspace(1,40,5)
 
-print(arr)
+# print(arr)
+
+arr = array([1,2,3,4,5])
+
