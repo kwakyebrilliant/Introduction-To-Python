@@ -4,6 +4,6 @@ from numpy import *
 
 # print(arr)
 
-arr = arange(1,15,2)
+arr = logspace(1,40,5)
 
 print(arr)
