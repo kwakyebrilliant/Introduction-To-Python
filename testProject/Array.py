@@ -24,3 +24,5 @@ for e in arr:
         break
         
     k+=1
+
+print(arr.index(val))
