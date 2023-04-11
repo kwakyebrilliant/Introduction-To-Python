@@ -17,6 +17,6 @@ print(arr)
 
 val = int(input("Enter the value for search"))
 
-for i in arr:
+for e in arr:
     if i==val:
         
