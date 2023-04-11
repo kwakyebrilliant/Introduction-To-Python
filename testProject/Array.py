@@ -1,3 +1,3 @@
-import array
+from array import *
 
-array()
+vals = array()
