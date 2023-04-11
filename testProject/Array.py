@@ -21,5 +21,6 @@ k = 0
 for e in arr:
     if e==val:
         print(k)
+        break
         
     k+=1
