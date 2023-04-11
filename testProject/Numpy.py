@@ -4,7 +4,7 @@ from numpy import *
 
 # print(arr)
 
-arr = array([1,2,3,4,5])
+arr = array([1,2,3,4,5], int)
 
 print(arr.dtype)
 print(arr)
