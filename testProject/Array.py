@@ -1,3 +1,3 @@
 from array import *
 
-vals = array()
+vals = array('i',[5,9,8,4,2])
