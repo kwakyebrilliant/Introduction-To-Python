@@ -4,6 +4,6 @@ from numpy import *
 
 # print(arr)
 
-arr = linspace(0,15,16)
+arr = arange(1,15,2)
 
 print(arr)
