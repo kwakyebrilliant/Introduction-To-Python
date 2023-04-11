@@ -20,5 +20,6 @@ val = int(input("Enter the value for search"))
 k = 0
 for e in arr:
     if e==val:
+        print(k)
         
-        k+=1
+    k+=1
