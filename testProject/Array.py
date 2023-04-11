@@ -6,3 +6,5 @@ from array import *
 #  print(vals[e])
 
 arr = array('i', [])
+
+n = int(input("Enter the length of the array"))
