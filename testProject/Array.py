@@ -15,4 +15,4 @@ for i in range(n):
 
 print(arr)
 
-val = int(input("Enter the length of the array"))
+val = int(input("Enter the value for search"))
