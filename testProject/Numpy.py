@@ -4,7 +4,6 @@ from numpy import *
 
 # print(arr)
 
-arr = array([1,2,3,4,5], int)
+arr = linspace(0,15,16)
 
-print(arr.dtype)
 print(arr)
