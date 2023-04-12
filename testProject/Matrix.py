@@ -6,6 +6,6 @@ arr1 = array([
     [4,5,6]
 ])
 
+m = matrix(arr1)
 
-
-print(arr1)
+print(m)
