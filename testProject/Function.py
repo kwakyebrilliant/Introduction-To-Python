@@ -6,7 +6,7 @@ def greet():
 
 def add(x,y):
     c = x+y
-    print(c)
+    return c
 
 greet()
-add(5,4)
+result = add(5,4)
