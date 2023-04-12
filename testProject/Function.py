@@ -27,6 +27,7 @@
 
 def person(name,age):
    print(name)
+   print(age)
 
 
 add(5,6)
