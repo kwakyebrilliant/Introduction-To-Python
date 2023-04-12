@@ -12,15 +12,19 @@
 # result = add(5,4)
 # print(result)
 
-def update(lst):
+# def update(lst):
 
-    print(id(lst))
+#     print(id(lst))
 
-    lst[1] = 25
-    print(id(lst))
-    print(lst)
+#     lst[1] = 25
+#     print(id(lst))
+#     print(lst)
 
-lst = [10,20,30]
-print(id(lst))
-update(10)
-print(lst)
+# lst = [10,20,30]
+# print(id(lst))
+# update(10)
+# print(lst)
+
+def add(a,b):
+    c = a+b
+    print(c)
