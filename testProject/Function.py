@@ -4,6 +4,6 @@ def greet():
     print("Hello")
     print("Good morning")
 
-greet()
+def add(x,y):
 
-greet()
+add(5,4)
