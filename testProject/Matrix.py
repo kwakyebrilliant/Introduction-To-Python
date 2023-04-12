@@ -8,4 +8,4 @@ arr1 = array([
 
 arr2 = arr1.flatten()
 
-print(arr1.size)
+print(arr2)
