@@ -1,13 +1,14 @@
 
 
-def greet():
-    print("Hello")
-    print("Good morning")
+# def greet():
+#     print("Hello")
+#     print("Good morning")
 
-def add(x,y):
-    c = x+y
-    return c
+# def add(x,y):
+#     c = x+y
+#     return c
 
-greet()
-result = add(5,4)
-print(result)
+# greet()
+# result = add(5,4)
+# print(result)
+
