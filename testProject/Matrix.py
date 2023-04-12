@@ -6,6 +6,6 @@ arr1 = array([
     [4,5,6]
 ])
 
-arr2 = arr1.flatten()
 
-print(arr2)
+
+print(arr1)
