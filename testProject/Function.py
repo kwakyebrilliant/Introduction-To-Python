@@ -25,9 +25,9 @@
 # update(10)
 # print(lst)
 
-def person(name,age):
-   print(name)
-   print(age)
+def sum(a,b):
+   c = a+b
+   print(c)
 
 
 person('Brilliant',28 )
