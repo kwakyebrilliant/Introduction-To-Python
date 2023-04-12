@@ -25,7 +25,7 @@
 # update(10)
 # print(lst)
 
-def add(a,b):
+def person(name,age):
     c = a+b
     print(c)
 
