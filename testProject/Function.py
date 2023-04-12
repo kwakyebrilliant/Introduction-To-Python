@@ -8,4 +8,5 @@ def add(x,y):
     c = x+y
     print(c)
 
+greet()
 add(5,4)
