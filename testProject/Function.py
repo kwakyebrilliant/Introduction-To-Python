@@ -10,3 +10,4 @@ def add(x,y):
 
 greet()
 result = add(5,4)
+print(result)
