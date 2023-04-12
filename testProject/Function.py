@@ -26,8 +26,7 @@
 # print(lst)
 
 def person(name,age):
-    c = a+b
-    print(c)
+   print(name)
 
 
 add(5,6)
