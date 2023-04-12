@@ -30,4 +30,4 @@ def sum(a,b):
    print(c)
 
 
-person('Brilliant',28 )
+sum(7,8 )
