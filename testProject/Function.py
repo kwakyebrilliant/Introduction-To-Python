@@ -30,4 +30,4 @@ def person(name,age):
    print(age)
 
 
-add(5,6)
+person('Brilliant',28 )
