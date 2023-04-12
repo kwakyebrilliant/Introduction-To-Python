@@ -16,5 +16,6 @@ def update(x):
     x = 8
     print(x)
 
-
+a = 10
 update(10)
+print(a)
