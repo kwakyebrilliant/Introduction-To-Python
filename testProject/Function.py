@@ -20,7 +20,7 @@ def update(x):
     print(id(x))
     print(x)
 
-a = 10
-print(id(a))
+lst = [10,20,30]
+print(id(lst))
 update(10)
-print(a)
+print(lst)
