@@ -2,9 +2,11 @@
 
 a = 10
 
-def soemthing():
+def something():
 
-    
+    a = 15
+    print(a)
+
 
 
 print(a)
