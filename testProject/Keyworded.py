@@ -1,6 +1,6 @@
 
 
-def person(name, *data):
+def person(name, **data):
 
     print(name)
     print(data)
