@@ -5,4 +5,4 @@ def person(name, *data):
     print(name)
     print(data)
 
-person('Brilliant', 27, 'Accra', 907978976)
+person('Brilliant', age=27, city='Accra', mob=907978976)
