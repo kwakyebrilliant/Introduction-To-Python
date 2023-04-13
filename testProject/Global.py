@@ -10,6 +10,7 @@ def something():
     
     x = globals()['a']
     print(id(x))
+    print('in', a)
 
 
 something()
