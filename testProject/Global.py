@@ -5,8 +5,9 @@ a = 10
 def something():
 
     a = 15
-    print(a)
+    print('in', a)
 
 
+something()
 
-print(a)
+print('out', a)
