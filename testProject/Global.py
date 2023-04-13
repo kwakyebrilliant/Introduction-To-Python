@@ -9,6 +9,7 @@ def something():
     a = 15
     
     x = globals()['a']
+    print(id(x))
 
 
 something()
