@@ -1,6 +1,7 @@
 
 def fact(n):
-    
+
+    for i in range()
 
 x = 5
 
