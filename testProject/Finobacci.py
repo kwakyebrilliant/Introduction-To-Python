@@ -8,6 +8,6 @@ def fib(n):
     print(b)
 
     for i in range(2,n,):
-        
+        print(a+b)
 
 fib(5)
