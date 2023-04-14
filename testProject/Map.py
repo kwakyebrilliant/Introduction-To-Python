@@ -1,11 +1,9 @@
 
-def updates(n):
-    return n+2
 
 nums = [2,3,6,8,6,8,2]
 
 evens = list(filter(lambda n: n%2==0 ,nums))
 
-doubles = list(map(,evens))
+doubles = list(map(lambda n: n+2,evens))
 
 print(evens)
