@@ -8,15 +8,16 @@ def fib(n):
     if n == 1:
         print(a)
 
-    print(a)
-    print(b)
+    else:
+        print(a)
+        print(b)
 
-    for i in range(2,n):
+        for i in range(2,n):
 
-        c = a + b
-        a = b
-        b = c
+            c = a + b
+            a = b
+            b = c
 
-        print(c)
+            print(c)
 
 fib(1)
