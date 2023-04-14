@@ -1,6 +1,6 @@
 
 
-a : a*a
+f = lambda a : a*a
 
 result = square(5)
 
