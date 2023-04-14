@@ -20,4 +20,4 @@ def fib(n):
 
             print(c)
 
-fib(1)
+fib(10)
