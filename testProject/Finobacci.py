@@ -1,5 +1,6 @@
 
 
-def fib()
+def fib(n):
+    
 
 fib(5)
