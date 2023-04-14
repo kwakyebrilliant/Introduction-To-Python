@@ -13,6 +13,6 @@ def fib(n):
         a = b
         b = c
 
-        print(a+b)
+        print(c)
 
 fib(5)
