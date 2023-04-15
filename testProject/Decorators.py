@@ -10,5 +10,6 @@ def smart_div(func):
 
         if a>b:
             a,b = b,a
+        return func()
 
 div(4,2)
