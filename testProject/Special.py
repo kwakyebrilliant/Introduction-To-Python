@@ -1,3 +1,6 @@
 
+import Calc
 
-print(__name__)
+
+
+print("Demo says : " + __name__)
