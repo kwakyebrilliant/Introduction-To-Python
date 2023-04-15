@@ -8,8 +8,13 @@ def smart_div(func):
 
     def inner(a,b):
 
-        if a>b:
+        if a<b:
             a,b = b,a
-        return func()
+        return func(a,b)
+    
+    return inner
 
-div(4,2)
+
+div1 = smart_div(div)
+
+div1(2,4)
