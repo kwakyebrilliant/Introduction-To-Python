@@ -1,4 +1,7 @@
 
 
 def div(a, b):
-    return a/b
+    print(a/b)
+
+
+div(4,2)
