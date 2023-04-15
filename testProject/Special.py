@@ -1,6 +1,4 @@
 
-import Calc
 
-
-
-print("Demo says : " + __name__)
+print("Hello")
+print("Welcome user")
