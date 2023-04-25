@@ -8,4 +8,4 @@ class Computer:
 
 com1 = Computer()
 
-Computer.config()
+Computer.config(com1)
