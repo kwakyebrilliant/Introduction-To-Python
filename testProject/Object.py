@@ -6,4 +6,5 @@ class Computer:
         print("Macbook pro")
 
 
-com1 = Computer
+com1 = Computer()
+
