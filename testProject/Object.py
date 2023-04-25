@@ -8,3 +8,4 @@ class Computer:
 
 com1 = Computer()
 
+print(type(com1))
