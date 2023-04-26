@@ -9,7 +9,7 @@ class Computer:
 
 
 com1 = Computer("Macbook Pro", 16)
-com2 = Computer()
+com2 = Computer("Dell Vostro", 8)
 
 com1.config()
 com2.config()
