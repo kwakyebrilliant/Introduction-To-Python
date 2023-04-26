@@ -3,7 +3,7 @@
 class Computer:
 
     def __init__(self):
-        pass
+        print("in init")
 
     def config(self):
         print("Macbook pro")
