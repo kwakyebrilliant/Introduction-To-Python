@@ -7,7 +7,7 @@ class Computer:
         self.ram = ram
 
     def config(self):
-        print("Macbook pro")
+        print("Config is ", self.cpu, self.ram)
 
 
 com1 = Computer("Macbook Pro", 16)
