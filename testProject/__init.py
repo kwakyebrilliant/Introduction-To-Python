@@ -2,7 +2,7 @@
 
 class Computer:
 
-    def __init__(self):
+    def __init__(self,cpu,ram):
 
     def config(self):
         print("Macbook pro")
