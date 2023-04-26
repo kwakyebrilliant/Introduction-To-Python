@@ -2,6 +2,9 @@
 
 class Computer:
 
+    def __init__(self):
+        pass
+
     def config(self):
         print("Macbook pro")
 
