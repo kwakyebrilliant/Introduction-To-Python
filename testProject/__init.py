@@ -5,6 +5,8 @@ class Computer:
 
 c1 = Computer()
 
+print(id(c1))
+
 #     def __init__(self,cpu,ram):
 #         self.cpu = cpu
 #         self.ram = ram
