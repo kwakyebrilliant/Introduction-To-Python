@@ -4,7 +4,8 @@ class Cars:
 
 
     def __init__(self):
-        
+        self.mil = 10
+        self.comp = "Land Rover"
 
 # class Computer:
 #     pass
