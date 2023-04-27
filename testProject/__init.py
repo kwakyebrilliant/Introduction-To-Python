@@ -1,14 +1,16 @@
 
 
-class Computer:
-    pass
 
 
-c1 = Computer()
-c2 = Computer()
+# class Computer:
+#     pass
 
-print(id(c1))
-print(id(c2))
+
+# c1 = Computer()
+# c2 = Computer()
+
+# print(id(c1))
+# print(id(c2))
 
 #     def __init__(self,cpu,ram):
 #         self.cpu = cpu
