@@ -2,7 +2,8 @@
 
 class Computer:
 
-    
+
+c1 = Computer()
 
 #     def __init__(self,cpu,ram):
 #         self.cpu = cpu
