@@ -9,6 +9,7 @@ class Cars:
 
 
 c1 = Cars()
+c2 = Cars()
 
 # class Computer:
 #     pass
