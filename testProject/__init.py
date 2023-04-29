@@ -7,6 +7,9 @@ class Cars:
         self.mil = 10
         self.comp = "Land Rover" 
 
+
+c1 = Cars()
+
 # class Computer:
 #     pass
 
