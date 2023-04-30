@@ -5,7 +5,7 @@ class Cars:
 
     def __init__(self):
         self.mil = 10
-        self.comp = "Land Rover" 
+        self.comp = "Land Rover"
 
 
 c1 = Cars()
