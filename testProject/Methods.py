@@ -15,6 +15,9 @@ class Student:
     
     def get_m1(self):
         return self.m1
+    
+    def set(self, value):
+        self.m1 = value
 
 
 s1 = Student(24,56,84)
