@@ -10,3 +10,4 @@ class Student:
 
 
 s1 = Student()
+s2 = Student()
