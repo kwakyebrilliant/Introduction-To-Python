@@ -11,6 +11,7 @@ class Cars:
 c1 = Cars()
 c2 = Cars()
 print(c1.com, c1.mil)
+print(c2.com, c2.mil)
 
 # class Computer:
 #     pass
