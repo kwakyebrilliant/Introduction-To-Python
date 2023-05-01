@@ -16,3 +16,5 @@ class Student:
 
 s1 = Student(24,56,84)
 s2 = Student(12,28,52)
+
+print(s1.avg)
