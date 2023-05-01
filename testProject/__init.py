@@ -5,11 +5,12 @@ class Cars:
 
     def __init__(self):
         self.mil = 10
-        self.comp = "Land Rover"
+        self.com = "Land Rover"
 
 
 c1 = Cars()
 c2 = Cars()
+print(c1.com, c1.mil)
 
 # class Computer:
 #     pass
