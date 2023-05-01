@@ -11,6 +11,7 @@ class Student:
 
 
     def avg(self):
+        return
 
 
 s1 = Student(24,56,84)
