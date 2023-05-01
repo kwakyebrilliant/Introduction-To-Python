@@ -11,7 +11,7 @@ class Student:
 
 
     def avg(self):
-        return(self.m1,self.m2,self.m3)/3
+        return(self.m1 + self.m2 + self.m3)/3
 
 
 s1 = Student(24,56,84)
