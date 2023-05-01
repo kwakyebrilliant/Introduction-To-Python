@@ -12,12 +12,6 @@ class Student:
 
     def avg(self):
         return(self.m1 + self.m2 + self.m3)/3
-    
-    def get_m1(self):
-        return self.m1
-    
-    def set(self, value):
-        self.m1 = value
 
 
 s1 = Student(24,56,84)
