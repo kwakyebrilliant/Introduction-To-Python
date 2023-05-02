@@ -9,7 +9,7 @@ class Student:
 
 
     def show(self):
-        print()
+        print(self.name , self.rollno)
 
 
 s1 = Student('Brilliant',2)
