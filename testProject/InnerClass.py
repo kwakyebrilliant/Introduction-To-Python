@@ -29,5 +29,4 @@ s1.show()
 lap1 = s1.lap
 lap2 = s2.lap
 
-print(id(lap1))
-print(id(lap2))
+lap1 = Student.Laptop()
