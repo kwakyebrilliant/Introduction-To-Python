@@ -25,3 +25,7 @@ s1 = Student('Brilliant',2)
 s2 = Student('Amoah',12)
 
 s1.show()
+
+lap1 = s1.lap
+lap2 = s2.lap
+
