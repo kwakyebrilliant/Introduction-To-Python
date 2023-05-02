@@ -11,6 +11,9 @@ class Student:
     class Laptop:
 
         def __init__(self):
+            self.brand = 'Mackbook'
+            self.cpu = 'M1'
+            self.ram = 8
 
 
     def show(self):
