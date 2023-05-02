@@ -9,7 +9,8 @@ class Student:
 
 
     class Laptop:
-        
+
+        def __init__(self):
 
 
     def show(self):
