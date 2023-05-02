@@ -8,6 +8,10 @@ class Student:
         self.rollno = rollno
 
 
+    def show(self):
+        print()
+
+
 s1 = Student('Brilliant',2)
 s2 = Student('Amoah',12)
 
