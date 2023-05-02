@@ -10,3 +10,5 @@ class Student:
 
 s1 = Student('Brilliant',2)
 s2 = Student('Amoah',12)
+
+print(s1.name , s1.rollno)
