@@ -9,4 +9,4 @@ class Student:
 
 
 s1 = Student('Brilliant',2)
-s1 = Student('Amoah',12)
+s2 = Student('Amoah',12)
