@@ -8,11 +8,15 @@ class Student:
         self.rollno = rollno
 
 
+    class Laptop:
+        
+
+
     def show(self):
         print(self.name , self.rollno)
 
 
-s1 = Student('Brilliant',2,'Macbook','M1',8)
+s1 = Student('Brilliant',2)
 s2 = Student('Amoah',12)
 
 s1.show()
