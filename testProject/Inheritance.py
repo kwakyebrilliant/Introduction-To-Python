@@ -10,7 +10,7 @@ class A:
         print("Feature 2 working")
 
 
-class B:
+class B(A):
 
     def feature3(self):
         print("Feature 3 working")
@@ -24,3 +24,4 @@ a1 = A()
 
 a1.feature1()
 a1.feature2()
+
