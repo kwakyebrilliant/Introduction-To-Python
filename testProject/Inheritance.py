@@ -25,3 +25,6 @@ a1 = A()
 a1.feature1()
 a1.feature2()
 
+b1 = B()
+
+b1.feature2()
