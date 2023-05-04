@@ -2,6 +2,9 @@
 
 class A:
 
+    def __init__(self):
+        print("in A Init")
+
 
     def feature1(self):
         print("Feature 1 working")
