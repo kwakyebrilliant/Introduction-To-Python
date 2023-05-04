@@ -12,6 +12,12 @@ class A:
 
 class B:
 
+    def feature3(self):
+        print("Feature 3 working")
+
+    def feature4(self):
+        print("Feature 4 working")
+
 
 
 a1 = A()
