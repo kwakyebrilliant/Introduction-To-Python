@@ -10,6 +10,9 @@ class A:
         print("Feature 2 working")
 
 
+class B:
+
+
 
 a1 = A()
 
