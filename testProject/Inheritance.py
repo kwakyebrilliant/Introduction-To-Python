@@ -22,4 +22,4 @@ class B(A):
         print("Feature 4 working")
 
 
-a1 = A()
+a1 = A() 
