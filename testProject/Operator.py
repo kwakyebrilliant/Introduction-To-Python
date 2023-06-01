@@ -22,4 +22,4 @@ s2 = Student(60,65)
 
 s3 = s1 + s2
 
-print(s3.m1) 
+print(s3.m1)
