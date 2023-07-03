@@ -1,12 +1,7 @@
-nums = [7,8,9,5]
+class TopTen:
 
+    def __init__(self):
+        self.num = 1
 
-it = iter(nums)
-
-print(it.__next__())
-
-
-print(next(it))
-
-for i in nums:
-    print(i)
+    def __iter__(self):
+        return self
